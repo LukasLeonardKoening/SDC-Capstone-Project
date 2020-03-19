@@ -292,7 +292,7 @@ In the second image you can clearly see the deceleration due the fact that the c
 
 Additionally, we made a longer video of the car making an entire round, which is available on Youtube:
 
-[Udacity Self-Driving Car Nanodegree Capstone Project Video](https://youtu.be/RByTla7bgrI)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/RByTla7bgrI/0.jpg)](http://www.youtube.com/watch?v=RByTla7bgrI)
 
 You can see a little delay between the change of the traffic light and the reaction of the car in the first image. This is caused by to two factors:
 
